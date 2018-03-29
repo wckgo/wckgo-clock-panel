@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Clock",
+  "id": "wckgo-clock-panel",
+
+  "info": {
+    "description": "Clock panel for grafana",
+    "author": {
+      "name": "wckgo",
+      "url": "https://www.wckgo.top"
+    },
+    "keywords": ["clock", "panel"],
+    "version": "0.0.1",
+    "updated": "2018-03-29"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
